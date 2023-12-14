@@ -1,0 +1,2 @@
+D:\Курс_II\ООАиП\LR_Mediator\LR_Mediator\obj\Debug\LR_Mediator.csproj.AssemblyReference.cache
+D:\Курс_II\ООАиП\LR_Mediator\LR_Mediator\obj\Debug\LR_Mediator.csproj.CoreCompileInputs.cache
